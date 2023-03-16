@@ -1,0 +1,28 @@
+Exercicio 4
+
+Considerando que a distancia percorrida é a mesma para ambos tem-se:
+Dcarro + Dcaminhao = 100km
+
+Sabendo que D = V*T
+
+110 km/h * t + 80 km/h * t = 100km
+190 km/h * t = 100km
+t = 100 km / 190 km/h = 0,53 h = 32 minutos sem penalidades
+
+Considerando que: 
+Dcarro = Vcarro * T
+Dcarro = 110 km/h * 0,53 h
+Dcarro = 57km
+
+E que:
+Dcaminhao = Vcaminhao * T
+Dcaminhao = 80km/h * 0,53 * h
+Dcaminhao = 43 km (aproximadamente)
+
+   Considerando como referencial a cidade de Ribeirão sendo Ribeirao KM 1 e Franca KM 100 temos: 
+Caso o caminhao nao se depare com nenhum pedágio antes do (KM 57) este será o ponto de encontro de ambos em 32 minutos
+e consequentemente o carro estará mais proximo de Ribeirao (KM 43). Porém caso o caminhao encontre os 2 pedágios 
+antes do (KM 57) o carro terá 10 minutos de vantagem sob o caminhao. Sendo assim o carro percorá 0,7h * 110km/h = 77km
+ficando a 23 km de Franca enquanto o caminhao estará a 43 km de Franca, portanto nesse caso o caminhao estára mais
+proximo de Ribeirao.
+   Na minha opnião seria interesse informar o KM do pedágio, ou se aparece antes da metade do caminho ou depois.
